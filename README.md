@@ -7,8 +7,9 @@
 - 🌱 I'm currently on a journey to become a proficient web developer, focusing on HTML and CSS.
 
 - 📚 Currently Learning **JavaScript ,Backend development**
-
-- 📫 Contact : **kripannas333@gmail.com**
+- 🚀 My Focus:
+- 🔒 **Cybersecurity:** Exploring the art of securing digital landscapes.
+- 🎭 **Ethical Hacking:** Passionate about ethical hacking to uncover vulnerabilities and strengthen systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
